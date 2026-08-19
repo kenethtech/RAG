@@ -6,3 +6,4 @@ as Embeddings.
 To use this code as it is first: 
    1. Create your groq api key and use it on the model
    2. Install all the dependencies from the requirements.txt
+   3. Create and insert all your pdf documents in the data folder
